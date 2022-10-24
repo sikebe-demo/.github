@@ -1,0 +1,13 @@
+{
+    "name": "sikebe-demo-org Workflow",
+    "description": "sikebe-demo-org CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "C#"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
