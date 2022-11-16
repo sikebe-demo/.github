@@ -6,8 +6,6 @@
         "C#"
     ],
     "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
+        ".*\\.sln$"
     ]
 }
